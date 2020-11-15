@@ -1,16 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package phmgtsys;
-
-import database.DatabaseHelper;
-
 /**
  *
  * @author Thavinga Namesh
  */
+
+package phmgtsys;
+
+import database.DatabaseHelper;
+
 public class DeleteUser extends javax.swing.JFrame {
 
     /**

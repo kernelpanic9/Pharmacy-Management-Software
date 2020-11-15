@@ -1,14 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package phmgtsys;
-
 /**
  *
- * @author TREMEX
+ * @author Thavinga Namesh
  */
+
+package phmgtsys;
+
 public class Mainmenu extends javax.swing.JFrame {
 
     /**
